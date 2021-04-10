@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vendor App</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_order">Order</string>
+    <string name="title_payin">Pay-In</string>
+    <string name="title_profile">Profile</string>
+</resources>

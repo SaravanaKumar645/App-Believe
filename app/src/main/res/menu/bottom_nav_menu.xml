@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_menu" />
+
+    <item
+        android:id="@+id/navigation_order"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_order" />
+
+    <item
+        android:id="@+id/navigation_payin"
+        android:icon="@drawable/ic_baseline_payment_24"
+        android:title="@string/title_payin" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="@string/title_profile" />
+
+</menu>
