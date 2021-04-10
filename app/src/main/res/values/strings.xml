@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="register_text1">Register in to get started</string>
+    <string name="register_text2">Experience the all new App!</string>
+    <string name="login_text1">Log in in to get started</string>
+    <string name="login_text2">Experience the all new App!</string>
+
+
+</resources>
